@@ -8,9 +8,11 @@ The locations of the devices and the related channel information are in the `dat
 The `example.m` code can be run to observe how to import the dataset and generate the channels. This code also produces an example plot showing the spectral efficiency vs RIS size. The function `channel_import.m` is used for extracting the information of the paths from the given files. The usage of this function can be observed in `example.m`.
 
 # Citation
+```
 @article{Bayraktar2024,
   title={{RIS}-aided joint channel estimation and localization at {mmWave} under hardware impairments: A dictionary learning-based approach},
   author={Bayraktar, Murat and and González-Prelcic, Nuria and Alexandropoulos, George K. and Chen, Hao},
   journal={arXiv preprint},
   year={2024}
 }
+```
