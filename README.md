@@ -11,8 +11,8 @@ The `example.m` code can be run to observe how to import the dataset and generat
 ```
 @article{Bayraktar2024,
   title={{RIS}-aided joint channel estimation and localization at {mmWave} under hardware impairments: A dictionary learning-based approach},
-  author={Bayraktar, Murat and and González-Prelcic, Nuria and Alexandropoulos, George K. and Chen, Hao},
-  journal={arXiv preprint},
+  author={Bayraktar, Murat and and González-Prelcic, Nuria and Alexandropoulos, George C. and Chen, Hao},
+  journal={IEEE Trans. Wireless Commun.},
   year={2024}
 }
 ```
